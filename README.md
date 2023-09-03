@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💜A passionate front-end developer from Venezuela<br><br>👩‍💻 I'm currently working on React Weather App<br><br>🧠 I'm currently learning React, Tailwind CSS, Node.js and Figma<br><br>👯‍♀️ I'm looking to collaborate on beginners projects<br><br>😄 Pronouns She/Her</p>
+<p align="left">💜A passionate front-end developer from Venezuela<br><br>👩‍💻 I'm currently working on New Projects<br><br>🧠 I'm currently learning React, Tailwind CSS, Node.js and Figma<br><br>👯‍♀️ I'm looking to collaborate on front-end projects<br>
 
 ###
 
